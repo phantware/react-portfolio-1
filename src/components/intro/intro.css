@@ -80,3 +80,9 @@
   top: 0;
   right: 0;
 }
+
+.i-desc {
+  padding-top: 20px;
+  line-height: 40px;
+  font-size: 20px;
+}
