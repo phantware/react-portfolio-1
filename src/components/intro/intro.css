@@ -1,7 +1,5 @@
 .intro {
   display: flex;
-  /* align-items: center;
-   justify-content: space-between; */
   height: 100vh;
 }
 
@@ -85,4 +83,35 @@
   padding-top: 20px;
   line-height: 40px;
   font-size: 20px;
+}
+
+@media screen and (max-width: 480px) {
+  .intro {
+    flex-direction: column;
+  }
+  .i-intro {
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .i-name {
+    font-size: 30px;
+  }
+
+  .intro-left-wrapper {
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .i-desc {
+    display: none;
+  }
+
+  .i-title-item {
+    font-size: 20px;
+    padding-left: 5px;
+    height: 100%;
+  }
 }
