@@ -28,11 +28,16 @@
 
 @media screen and (max-width: 480px) {
   .pl {
+    width: 100%;
     padding: 10px;
   }
 
   .pl-texts {
     width: 100%;
+  }
+  .pl-title {
+    padding-top: 100px;
+    padding-right: 20px;
   }
 
   .pl-desc {
