@@ -14,4 +14,9 @@ export const products = [
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1643454643/react-cloth-shop.png',
     link: 'https://react-cloth-shop.netlify.app ',
   },
+  {
+    id: 4,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1644049056/letskonnect.png',
+    link: 'https://letskonnect.netlify.app ',
+  },
 ]
