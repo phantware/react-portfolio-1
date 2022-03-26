@@ -24,4 +24,9 @@ export const products = [
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648288899/react-video-app.png',
     link: 'https://jamiu-react-video-app.netlify.app',
   },
+  {
+    id: 6,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648293427/react-blog.png',
+    link: 'https://phantware-react-blog.netlify.app/',
+  },
 ]
