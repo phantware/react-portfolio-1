@@ -10,11 +10,9 @@ const Intro = () => {
           <h2 className='i-name'>Jamiu Ismail</h2>
           <div className='i-title'>
             <div className='i-title-wrapper'>
+              <div className='i-title-item'>Javascript Developer</div>
               <div className='i-title-item'>React Developer</div>
               <div className='i-title-item'>Nodejs Developer</div>
-              <div className='i-title-item'>
-                Microsoft Dynamics 365 BC/NAV Consultant
-              </div>
             </div>
           </div>
           <p className='i-desc'>
