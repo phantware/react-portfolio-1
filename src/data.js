@@ -12,11 +12,16 @@ export const products = [
   {
     id: 3,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1643454643/react-cloth-shop.png',
-    link: 'https://react-cloth-shop.netlify.app ',
+    link: 'https://react-cloth-shop.netlify.app',
   },
   {
     id: 4,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1644049056/letskonnect.png',
-    link: 'https://letskonnect.netlify.app ',
+    link: 'https://letskonnect.netlify.app',
+  },
+  {
+    id: 5,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648288899/react-video-app.png',
+    link: 'https://jamiu-react-video-app.netlify.app',
   },
 ]
