@@ -13,6 +13,7 @@ const Intro = () => {
               <div className='i-title-item'>Javascript Developer</div>
               <div className='i-title-item'>React Developer</div>
               <div className='i-title-item'>Nodejs Developer</div>
+              <div className='i-title-item'>MD365 Business Central Expert</div>
             </div>
           </div>
           <p className='i-desc'>
