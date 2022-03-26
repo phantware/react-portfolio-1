@@ -22,17 +22,14 @@ const About = () => {
           websites.
         </p>
         <p className='a-desc'>
-          Experienced Dynamic 365 BC/NAV Functional Expert with a demonstrated
-          history of working in the information technology and services
-          industry. Skilled in Web Technologies (HTML, CSS, Javascript, React
-          and Node), Microsoft Office, Microsoft PowerPoint, Microsoft Excel
-          (Desktop Publishing), Artificial Intelligence (AI), Electronics, Cisco
-          IT Essential, CCNA, and Window Administrator. Strong engineering
-          professional with a Higher National Diploma focused in Computer
-          Engineering from Yaba college of technology and National Diploma from
-          D.S. Adegbenro ICT Polytechnic.
+          Front End Engineer having a track record of developing React-based
+          front-end web apps. I hold a Higher National Diploma with a
+          concentration in computer engineering. Furthermore, I am adept at
+          converting figma designs into responsive web sites that work on any
+          device. At this point in my career, I am looking forward to working in
+          a remote, competitive, and demanding atmosphere.
         </p>
-        <div className='a-award'>
+        {/* <div className='a-award'>
           <img src={Award} alt='' className='a-award-img' />
           <div className='a-award-texts'>
             <h4 className='a-award-title'>International Design Awards 2021</h4>
@@ -41,7 +38,7 @@ const About = () => {
               and fugit.
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   )
