@@ -32,6 +32,6 @@ export const products = [
   {
     id: 7,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648816834/vanilla-e-commerce-netlify-app.png',
-    link: 'https://vanilla-e-commerce.netlify.app/',
+    link: 'https://vanilla-e-commerce.netlify.apps/',
   },
 ]
