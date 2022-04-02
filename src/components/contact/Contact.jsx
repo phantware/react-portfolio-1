@@ -77,6 +77,7 @@ const Contact = () => {
               type='text'
               placeholder='Name'
               name='user_name'
+              required
             />
             <input
               style={{
@@ -86,6 +87,7 @@ const Contact = () => {
               type='text'
               placeholder='Subject'
               name='user_subject'
+              required
             />
             <input
               style={{
@@ -95,6 +97,7 @@ const Contact = () => {
               type='text'
               placeholder='Email'
               name='user_email'
+              required
             />
             <textarea
               style={{
@@ -104,6 +107,7 @@ const Contact = () => {
               placeholder='Message'
               name='message'
               rows='5'
+              required
             ></textarea>
             <button>Submit</button>
             {done && 'Thank you...'}
