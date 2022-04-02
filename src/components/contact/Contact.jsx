@@ -5,6 +5,7 @@ import Address from '../../img/address.png'
 import { useContext, useRef, useState } from 'react'
 import emailjs from 'emailjs-com'
 import { ThemeContext } from '../../Context'
+import { Link } from 'react-router-dom'
 
 const Contact = () => {
   const formRef = useRef()
@@ -49,6 +50,16 @@ const Contact = () => {
             <div className='c-info-item'>
               <img className='c-icon' src={Address} alt='' />
               112 Isiba Oluwo Street, Egbeda, Lagos Nigeria
+            </div>
+            <div className='c-info-item'>
+              <a
+                class='cv'
+                href='/assets/Ismail-Jamiu-Resume.pdf'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Download my CV
+              </a>
             </div>
           </div>
         </div>
