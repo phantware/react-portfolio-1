@@ -80,6 +80,17 @@ button {
   cursor: pointer;
 }
 
+.cv {
+  text-transform: capitalize;
+  margin-top: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 1.6rem;
+  border: 1px solid white;
+  padding: 10px 15px;
+  background-color: black;
+}
+
 @media screen and (max-width: 480px) {
   .c-wrapper {
     flex-direction: column;
@@ -94,6 +105,11 @@ button {
   }
   .c-desc {
     display: none;
+  }
+  .cv {
+    font-size: 1rem;
+    padding: 10px;
+    margin: auto;
   }
   form {
     margin-top: 0px;
@@ -110,18 +126,3 @@ button {
     margin-top: 10px;
   }
 }
-
-.cv {
-  text-transform: capitalize;
-  margin-top: 10px;
-  text-decoration: none;
-  color: white;
-  font-size: 1.6rem;
-  border: 1px solid white;
-  padding: 10px 15px;
-  background-color: black;
-}
-/* .cv:hover {
-  padding: 10px;
-  box-shadow: 5px 10px #888888;
-} */
