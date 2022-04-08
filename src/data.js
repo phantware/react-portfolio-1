@@ -27,11 +27,16 @@ export const products = [
   {
     id: 6,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648293427/react-blog.png',
-    link: 'https://phantware-react-blog.netlify.app/',
+    link: 'https://phantware-react-blog.netlify.app',
   },
   {
     id: 7,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648816834/vanilla-e-commerce-netlify-app.png',
-    link: 'https://vanilla-e-commerce.netlify.apps/',
+    link: 'https://vanilla-e-commerce.netlify.app',
+  },
+  {
+    id: 8,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649432892/phantware-react-menu-netlify-app.png',
+    link: 'https://phantware-react-menu.netlify.app',
   },
 ]
