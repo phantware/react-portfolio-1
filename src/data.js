@@ -39,4 +39,9 @@ export const products = [
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649432892/phantware-react-menu-netlify-app.png',
     link: 'https://phantware-react-menu.netlify.app',
   },
+  {
+    id: 9,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649443180/phantware-react-tabs-netlify-app.png',
+    link: 'https://phantware-react-tabs.netlify.app',
+  },
 ]
