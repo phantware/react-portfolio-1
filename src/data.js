@@ -49,4 +49,10 @@ export const products = [
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649582753/phantware-react-slider-netlify-app.png',
     link: 'https://phantware-react-slider.netlify.app',
   },
+   {
+    id: 11,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1650018888/phantware-generate-lorem-ipsum-netlify-app.png',
+    link: 'https://phantware-generate-lorem-ipsum.netlify.app',
+  },
+]
 ]
