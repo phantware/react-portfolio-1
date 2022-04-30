@@ -54,10 +54,9 @@ const Contact = () => {
             <div className='c-info-item'>
               <a
                 class='cv'
+                tabindex="0" download
                 href='/assets/Ismail-Jamiu-Resume.pdf'
-                target='_blank'
-                rel='noreferrer'
-              >
+               >
                 Download my CV
               </a>
             </div>
