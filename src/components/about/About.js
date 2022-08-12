@@ -17,7 +17,7 @@ const About = () => {
       <div className='about-right'>
         <h1 className='a-title'>About Me</h1>
         <p className='a-sub'>
-          We love what we do and we do what our clients love & work with great
+          I love what I do and I do what my clients love & work with great
           clients all over the world to create thoughtful and purposeful
           websites.
         </p>
