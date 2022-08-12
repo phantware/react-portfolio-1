@@ -79,10 +79,10 @@ const Intro = () => {
           </g>
         </svg>
       </div>
-      <div className='intro-right'>
+      {/* <div className='intro-right'>
         <div className='i-bg'></div>
         <img src={Me} alt='jamiu' className='i-img' />
-      </div>
+      </div> */}
     </div>
   )
 }
