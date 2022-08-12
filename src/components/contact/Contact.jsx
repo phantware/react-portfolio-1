@@ -5,7 +5,7 @@ import Address from '../../img/address.png'
 import { useContext, useRef, useState } from 'react'
 import emailjs from 'emailjs-com'
 import { ThemeContext } from '../../Context'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 const Contact = () => {
   const formRef = useRef()
@@ -54,9 +54,10 @@ const Contact = () => {
             <div className='c-info-item'>
               <a
                 class='cv'
-                tabindex="0" download
-                href='/assets/Ismail-Jamiu-Resume.pdf'
-               >
+                tabindex='0'
+                download
+                href='/assets/ISMAIL_JAMIU_SE.docx'
+              >
                 Download my CV
               </a>
             </div>
