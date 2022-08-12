@@ -81,7 +81,7 @@ const Intro = () => {
       </div>
       <div className='intro-right'>
         <div className='i-bg'></div>
-//         <img src={Me} alt='jamiu' className='i-img' />
+        <img src={Me} alt='jamiu' className='i-img' />
       </div>
     </div>
   )
