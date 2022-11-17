@@ -96,6 +96,7 @@
   .intro {
     flex-direction: column;
     height: 50vh;
+    width: 100%;
   }
   .intro-left-wrapper {
     padding: 50px;
