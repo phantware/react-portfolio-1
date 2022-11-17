@@ -29,7 +29,7 @@
 }
 
 .p:hover .p-img {
-  transform: translateY(-100%);
+  transform: translateY(-60%);
 }
 
 @media screen and (max-width: 480px) {
