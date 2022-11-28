@@ -92,7 +92,7 @@
   .about {
     flex-direction: column;
     text-align: center;
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
   .about-left {
     width: 100%;
@@ -115,5 +115,7 @@
   .a-sub {
     margin: 0px 10px;
     font-size: 15px;
+    text-align: justify;
+    padding: 10px;
   }
 }

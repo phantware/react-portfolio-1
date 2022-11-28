@@ -22,9 +22,9 @@ const About = () => {
           websites.
         </p>
         <p className='a-desc'>
-          I am a Front End Engineer with a track record of developing React-based
-          front-end web apps. I hold a Higher National Diploma with a
-          concentration in computer engineering. Furthermore, I am adept at
+          I am a Front End Engineer with a track record of developing
+          React-based front-end web apps. I hold a Higher National Diploma with
+          a concentration in computer engineering. Furthermore, I am adept at
           converting figma designs into responsive web sites that work on any
           device. At this point in my career, I am looking forward to working in
           a remote, competitive, and demanding atmosphere.
