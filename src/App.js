@@ -16,11 +16,11 @@ function App() {
         color: darkMode && 'white',
       }}
     >
-      <Toggle />
+      {/* <Toggle /> */}
       <Intro />
-      <About />
-      <ProductList />
-      <Contact />
+      {/* <About /> */}
+      {/* <ProductList /> */}
+      {/* <Contact /> */}
     </div>
   )
 }
