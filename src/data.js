@@ -1,8 +1,8 @@
 export const products = [
   {
     id: 1,
-    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1643454139/react-website.png',
-    link: 'https://phantware-react-website.netlify.app',
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1670243845/cleanhub.png',
+    link: 'https://cleanhub.netlify.app',
   },
   {
     id: 2,
@@ -16,42 +16,42 @@ export const products = [
   },
   {
     id: 4,
+    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1643454139/react-website.png',
+    link: 'https://phantware-react-website.netlify.app',
+  },
+  {
+    id: 5,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1644049056/letskonnect.png',
     link: 'https://letskonnect.netlify.app',
   },
   {
-    id: 5,
+    id: 6,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648288899/react-video-app.png',
     link: 'https://jamiu-react-video-app.netlify.app',
   },
   {
-    id: 6,
+    id: 7,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648293427/react-blog.png',
     link: 'https://phantware-react-blog.netlify.app',
   },
   {
-    id: 7,
+    id: 8,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1648816834/vanilla-e-commerce-netlify-app.png',
     link: 'https://vanilla-e-commerce.netlify.app',
   },
   {
-    id: 8,
+    id: 9,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649432892/phantware-react-menu-netlify-app.png',
     link: 'https://phantware-react-menu.netlify.app',
   },
   {
-    id: 9,
+    id: 10,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649443180/phantware-react-tabs-netlify-app.png',
     link: 'https://phantware-react-tabs.netlify.app',
   },
   {
-    id: 10,
+    id: 11,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1649582753/phantware-react-slider-netlify-app.png',
     link: 'https://phantware-react-slider.netlify.app',
-  },
-  {
-    id: 11,
-    img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1650018888/phantware-generate-lorem-ipsum-netlify-app.png',
-    link: 'https://phantware-generate-lorem-ipsum.netlify.app',
   },
 ]
