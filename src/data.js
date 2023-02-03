@@ -7,7 +7,7 @@ export const products = [
   {
     id: 2,
     img: 'https://res.cloudinary.com/phantware-nigeria/image/upload/v1643454452/react-shop-online.png',
-    link: 'https://react-shop-online.netlify.app',
+    link: 'https://phantwears.netlify.app',
   },
   {
     id: 3,
